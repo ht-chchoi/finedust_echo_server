@@ -10,7 +10,7 @@ class AwtConsoleManager {
         val mainFrame = MainFrame()
         val mainPanel = Panel()
 
-        val tfResponse = TextField("Type=DUST&CurrentTime=20190806154125&ReceiveTime=20190806154119^20190806154119&WorstIndex=0^1&Data=pm1.0;ug/m3;7;좋음,pm2.5;ug/m3;7;좋음,pm10;ug/m3;7;보통^pm1.0;ug/m3;7;좋음,pm2.5;ug/m3;7;좋음,pm10;ug/m3;7;보통&Temperature=10,°C^11,°C&Humidity=70,%^75,%&Return=OK")
+        val tfResponse = TextField("Type=DUST&CurrentTime=20190806154125&ReceiveTime=20190806154119^20190806154119&WorstIndex=0^1&Data=pm1.0;ug/m3;7;좋음,pm2.5;ug/m3;7;좋음,pm10;ug/m3;7;보통^pm1.0;ug/m3;7;좋음,pm2.5;ug/m3;7;좋음,pm10;ug/m3;7;보통&Temperature=10,°C^11,°C&Humidity=70,%^75,%&uvi=2^5&Return=OK")
 
         val taConsole = TextArea()
 

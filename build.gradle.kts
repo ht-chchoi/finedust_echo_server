@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.4.0"
 }
 group = "com.friendship41"
-version = "1.0.0"
+version = "1.1.0"
 
 repositories {
     mavenCentral()
